@@ -1,0 +1,1 @@
+window.shapes_fdnf4n9h6 = function() { return {};}
